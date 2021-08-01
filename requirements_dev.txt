@@ -1,0 +1,6 @@
+black
+pytest-cov
+pytest
+gitpython
+coveralls
+pre-commit
